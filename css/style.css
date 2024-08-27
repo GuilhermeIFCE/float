@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+img {
+    width: 250px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    clear: both;
+    padding-left: 30px;
+    padding-top: 39px;
+}
+
+.left {
+    float: left;
+    width: 48%;
+    margin-right: 2%;
+}
+
+.right {
+    float: right;
+    width: 48%;
+    margin-left: 2%;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.box2 div img {
+    margin-top: 100px;
+}
